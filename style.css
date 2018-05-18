@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html, body {
+  color: #fff;
+  background: #000;
+  overflow: hidden;
+}
+
+#meta {
+  font-family: 'Poppins', sans-serif;
+  position: fixed;
+  left: 10%;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.2em;
+}
+
+p {
+  margin-top: 0;
+  max-width: 360px;
+}
+
+a, a:visited {
+  color: #fff;
+}
+
+form {
+  margin: 1.5em 0;
+}
+
+input[type=submit] {
+  color: #fff;
+  background: #000;
+  border: 1px solid #fff;
+  padding: 0.3em 0.5em;
+  font-family: 'Poppins', sans-serif;
+}
+input[type=email] {
+  font-family: 'Poppins', sans-serif;
+  border: 1px solid #fff;
+  padding: 0.3em 0.5em;
+}
