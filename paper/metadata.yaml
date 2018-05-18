@@ -17,7 +17,7 @@ graphics: yes
 numbersections: yes
 
 abstract: |
-    We propose a way to use blockchain technologies as a simulation medium, where instead of tokens there are atoms, instead of a hashing algorithm there is a physics engine, and instead of blocks there are temporal frames of a continuous simulation. As an initial use-case, we focus on cellular simulation and its applications in medical research. Much of this proposal is speculative and is intended as a starting point for future discussion.
+    We propose a way to use blockchain technologies as a simulation medium, where instead of tokens there are atoms, instead of a hashing algorithm there is a physics engine, and instead of blocks there are temporal frames of a continuous simulation. As an initial use-case, we focus on cellular simulation and its applications in medical research. Much of this proposal is speculative and is intended as a starting point for further discussion.
 
 # don't delete this line, bud
 ...
