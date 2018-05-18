@@ -29,7 +29,7 @@ class Scene {
     // this.camera.zoom = 0.00095;
     // this.camera.position.y = -50;
     // this.camera.position.z = 400;
-    this.camera.zoom = 0.008;
+    this.camera.zoom = 0.015;
     // this.camera.position.y = -50;
     this.camera.position.z = 400;
     this.camera.updateProjectionMatrix();
